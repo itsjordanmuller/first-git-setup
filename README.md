@@ -10,3 +10,7 @@ Everything worked as planned! I was able to create my very first file & reposito
 ## Changing Name of Repo to Reflect Content:
 I set the name of the repo to "first-git-setup" rather than "tutorial-git-setup", this change was due to the fact that this is not a tutorial for others.
 I also thought it would be a great time to make sure I could rename a repo, and reconnect the repo to my computer with the new name included.
+
+## Switching to Visual Studio Code (VSCode) for My Text Editor
+I have made the swap from the great [Notepad++](https://notepad-plus-plus.org/ "Notepad++") over to [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code") based on the recomendations made in the "Text Editors" lesson of [The Odin Project](https://www.theodinproject.com "The Odin Project")
+While it's not crucial to use Visual Studio Code, I thought I would try and do everything by the book, until I found something I could then prove to be better. For now, [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code") should work well for starting out.
